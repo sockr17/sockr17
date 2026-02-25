@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
----
-
 ## About Me
 
 Cybersecurity graduate focused on **Blue Team Operations, Threat Detection, and Incident Response**.
@@ -29,10 +27,22 @@ To begin my cybersecurity career as a **SOC Tier 1 Analyst**, contributing to mo
 
 ---
 
-## Certifications
-<img src="https://img.shields.io/badge/-CompTIA_Security+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="YOUR_GOOGLE_CERTIFICATE_LINK">
+## 🏆 Certifications
+
+<a href="https://www.comptia.org/certifications/security" target="_blank">
+  <img src="https://img.shields.io/badge/-CompTIA_Security+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
+<br>
+
+<a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">
   <img src="https://img.shields.io/badge/Google_Cybersecurity-Professional_Certificate-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+</a>
+
+<br>
+
+<a href="https://tryhackme.com/p/SIEMbiotic17" target="_blank">
+  <img src="https://img.shields.io/badge/SOC_Level_1-Path_Certificate_(TryHackMe)-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>
 
 ---
