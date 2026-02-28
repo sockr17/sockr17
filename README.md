@@ -131,6 +131,7 @@ Introductory threat hunting exercises
 <p align="center">
   <sub><strong>Primary Focus: Tier 1 SOC Operations | Defensive Security | Blue Team Fundamentals</strong></sub>
 </p>
+
 ---
 
 ## Technical Competencies
