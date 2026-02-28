@@ -170,13 +170,6 @@ Structured investigation approach:
 
 ---
 
-## GitHub Analytics
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kripy17&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kripy17&layout=compact&theme=tokyonight)
-
----
-
 ## Currently Working On
 
 - Expanding Wazuh detection use cases  
