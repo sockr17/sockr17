@@ -22,7 +22,7 @@ Actively pursuing a SOC Tier 1 Analyst role, with a strong focus on defensive se
 ## SOC Analyst Certification Stack
 
 <p align="center">
-  <strong>🔐 Security Certifications</strong>
+  <strong>🔐 Security Certifications & Technical Training</strong>
 </p>
 
 <br>
@@ -30,7 +30,8 @@ Actively pursuing a SOC Tier 1 Analyst role, with a strong focus on defensive se
 <table align="center">
 <tr>
 
-<td align="center" width="300">
+<!-- CompTIA Security+ -->
+<td align="center" width="300" valign="top">
 
 <a href="https://www.credly.com/YOUR_SECURITY_PLUS_LINK" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-8B0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Badge"/>
@@ -38,14 +39,18 @@ Actively pursuing a SOC Tier 1 Analyst role, with a strong focus on defensive se
 
 <br><br>
 
-<strong>Security Foundations</strong>
+<strong>CompTIA Security+</strong>
 
-<br>
+<br><br>
 
 <sub>
-Network Security • IAM • Cryptography<br>
-Risk Management • Vulnerability Management<br>
-Security Controls & Governance
+Industry-recognized certification validating core security knowledge:
+<br><br>
+• Network Security & Architecture<br>
+• Identity & Access Management<br>
+• Cryptography & PKI<br>
+• Risk Management & Governance<br>
+• Security Operations & Controls
 </sub>
 
 <br><br>
@@ -56,54 +61,64 @@ Security Controls & Governance
 
 </td>
 
-<td align="center" width="300">
+<!-- Google Cybersecurity Professional Certificate -->
+<td align="center" width="300" valign="top">
 
 <a href="https://coursera.org/YOUR_GOOGLE_CERT_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/Google-Cybersecurity-0A66C2?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate Badge"/>
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-0A66C2?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate Badge"/>
 </a>
 
 <br><br>
 
-<strong>SOC Operations</strong>
+<strong>Google Cybersecurity Professional Certificate</strong>
 
-<br>
+<br><br>
 
 <sub>
-SIEM Fundamentals • Log Analysis<br>
-Incident Response • Linux & SQL<br>
-MITRE ATT&CK • Python Automation
+Structured training crompriprogram covering:
+<br><br>
+SIEM fundamentals & alert workflows<br>
+Linux command-line basics<br>
+SQL for log queries<br>
+Incident response lifecycle<br>
+Risk assessment principles
 </sub>
 
 <br><br>
 
 <a href="https://coursera.org/YOUR_GOOGLE_CERT_LINK" target="_blank">
-  <sub><strong>Verify Credential →</strong></sub>
+  <sub><strong>View Certificate →</strong></sub>
 </a>
 
 </td>
 
-<td align="center" width="300">
+<!-- TryHackMe SOC Level 1 -->
+<td align="center" width="300" valign="top">
 
 <a href="https://tryhackme.com/YOUR_THM_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-111111?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe SOC Level 1 Badge"/>
+  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-111111?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe SOC Level 1 Path Completion Badge"/>
 </a>
 
 <br><br>
 
-<strong>Threat Detection & Response</strong>
+<strong>TryHackMe – SOC Level 1 Path</strong>
 
-<br>
+<br><br>
 
 <sub>
-Threat Hunting • EDR Concepts<br>
-Windows Event Logs • Splunk Correlation<br>
-Network Analysis • Alert Escalation
+Hands-on lab environment focused on practical blue-team skills:
+<br><br>
+Windows event log analysis<br>
+Basic Splunk investigations<br>
+Network traffic review<br>
+Alert triage & escalation concepts<br>
+Introductory threat hunting exercises
 </sub>
 
 <br><br>
 
-<a href="https://tryhackme.com/YOUR_THM_LINK" target="_blank">
-  <sub><strong>Verify Credential →</strong></sub>
+<a href="https://tryhackme.com/p/kri.py17" target="_blank">
+  <sub><strong>View Profile →</strong></sub>
 </a>
 
 </td>
@@ -114,7 +129,7 @@ Network Analysis • Alert Escalation
 <br>
 
 <p align="center">
-  <sub><strong>Focused on Tier 1 SOC Operations & Defensive Security</strong></sub>
+  <sub><strong>Primary Focus: Tier 1 SOC Operations | Defensive Security | Blue Team Fundamentals</strong></sub>
 </p>
 ---
 
