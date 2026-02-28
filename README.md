@@ -75,7 +75,7 @@ Industry-recognized certification validating core security knowledge:
 <br><br>
 
 <sub>
-Structured training crompriprogram covering:
+Structured training program covering:
 <br><br>
 SIEM fundamentals & alert workflows<br>
 Linux command-line basics<br>
