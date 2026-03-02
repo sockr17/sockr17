@@ -64,7 +64,7 @@ Industry-recognized certification validating core security knowledge:
 <!-- Google Cybersecurity Professional Certificate -->
 <td align="center" width="300" valign="top">
 
-<a href="https://coursera.org/YOUR_GOOGLE_CERT_LINK" target="_blank">
+<a href="[https://coursera.org/share/dcb5d9cf212ae16c71684c5023813a3e" target="_blank">
   <img src="https://img.shields.io/badge/Google-Cybersecurity-0A66C2?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate Badge"/>
 </a>
 
