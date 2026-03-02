@@ -86,7 +86,7 @@ Risk assessment principles
 
 <br><br>
 
-<a href="https://coursera.org/YOUR_GOOGLE_CERT_LINK" target="_blank">
+<a href="https://coursera.org/share/dcb5d9cf212ae16c71684c5023813a3e" target="_blank">
   <sub><strong>View Certificate →</strong></sub>
 </a>
 
