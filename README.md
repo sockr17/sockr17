@@ -142,23 +142,24 @@ status      : Actively seeking SOC opportunities · Open to connect
 <tr>
 <td>
 
-### [Wazuh SIEM — SOC Infrastructure Deployment](https://github.com/kripy17/Wazuh-SIEM-SOC-Infrastructure-Deployment)
+### [Wazuh SOC Lab — Phase 1: SIEM Infrastructure & Endpoint Monitoring](https://github.com/kripy17/Wazuh-SOC-Lab-Phase1)
 
 > *"Built a SOC lab so realistic, even my home network started filing incident reports."*
 
-A hands-on enterprise-grade SOC simulation — full deployment, endpoint telemetry collection, live attack simulation, and structured incident triage. Not a tutorial follow-along. An actual built environment.
+Deployed a fully operational Wazuh SIEM in an isolated VMware environment — covering infrastructure setup, Linux endpoint onboarding, log pipeline validation, and detection confirmation through controlled simulations. Not a tutorial follow-along. An actual built environment.
 
-**Stack:** `Wazuh` `Ubuntu` `Kali Linux` `VMware` `Sysmon` `MITRE ATT&CK`
+**Stack:** `Wazuh` `Ubuntu 22.04` `Kali Linux` `VMware` `UFW`
 
 | Milestone | Status |
 |-----------|--------|
 | Wazuh SIEM server deployed on Ubuntu | ✅ Complete |
-| Windows VM onboarded with Sysmon telemetry | ✅ Complete |
-| Attack simulation from Kali Linux | ✅ Complete |
-| Alert triage & dashboard analysis | ✅ Complete |
-| MITRE ATT&CK technique mapping | ✅ Complete |
-| Custom detection rules for advanced use cases | 🔄 In Progress |
-| Automated alert response playbooks | 📋 Planned |
+| NAT network configured & validated | ✅ Complete |
+| Kali Linux endpoint onboarded via Wazuh Agent | ✅ Complete |
+| Log ingestion & pipeline validation | ✅ Complete |
+| File Integrity Monitoring (FIM) confirmed | ✅ Complete |
+| Auth abuse & privilege escalation detection | ✅ Complete |
+| Windows VM + Sysmon integration | 🔄 Phase 2 |
+| Network IDS with Suricata | 📋 Phase 3 |
 
 </td>
 </tr>
