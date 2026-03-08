@@ -16,7 +16,6 @@
   <a href="https://tryhackme.com/p/kri.py17">
     <img src="https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kripy17&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" />
 </p>
 
 ---
