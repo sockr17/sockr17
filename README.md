@@ -264,7 +264,7 @@ A multi-phase, self-directed blue-team lab simulating a real SOC environment —
 |------|----------|--------|
 | SOC Home Lab — Phase 3 Attack Simulation | ⬛ High | `In Progress` |
 | Custom Wazuh detection rules | ⬛ High | `In Progress` |
-| CompTIA CySA+ preparation | 🔲 Medium | `Studying` |
+| CompTIA Security + preparation | 🔲 Medium | `Studying` |
 | Incident report documentation — Phase 3 | 🔲 Medium | `In Progress` |
 
 ---
