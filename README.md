@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/kripy17/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/kripy17">
+  <a href="https://github.com/sockr17">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://tryhackme.com/p/kri.py17">
@@ -272,11 +272,11 @@ A multi-phase, self-directed blue-team lab simulating a real SOC environment —
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kripy17&theme=dark&background=0d1117&ring=8B0000&fire=FF4444&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&border=333333" />
+  <img src="https://streak-stats.demolab.com?user=sockr17&theme=dark&background=0d1117&ring=8B0000&fire=FF4444&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&border=333333" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kripy17&bg_color=0d1117&color=ffffff&line=8B0000&point=ff4444&area=true&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sockr17&bg_color=0d1117&color=ffffff&line=8B0000&point=ff4444&area=true&hide_border=false" />
 </p>
 
 ---
