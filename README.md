@@ -276,9 +276,9 @@ A multi-phase, self-directed blue-team lab simulating a real SOC environment —
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sockr17/sockr17/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/sockr17/sockr17/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/sockr17/sockr17/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 <p align="center">
