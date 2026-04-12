@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: sockr17
+          github_user_name: kripy17
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=ff4444&color_dot=#1a1a2e&color_dot_light=#6b0000&color_dot_dark=#8B0000
             dist/github-contribution-grid-snake-dark.svg?color_snake=ff4444&color_dot=#1a1a2e&color_dot_light=#6b0000&color_dot_dark=#8B0000

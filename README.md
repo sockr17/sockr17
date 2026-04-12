@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sockr17/">
+  <a href="https://www.linkedin.com/in/kripy17/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/sockr17">
+  <a href="https://github.com/kripy17">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://tryhackme.com/p/kri.py17">
@@ -181,7 +181,7 @@ status      : Actively seeking SOC opportunities · Open to connect
 <tr>
 <td>
 
-### [🛡️ SOC Home Lab — End-to-End Security Operations Center](https://github.com/sockr17/SOC-Home-Lab)
+### [🛡️ SOC Home Lab — End-to-End Security Operations Center](https://github.com/kripy17/SOC-Home-Lab)
 
 > *"Built a SOC lab so realistic, even my home network started filing incident reports."*
 
@@ -286,11 +286,11 @@ A multi-phase, self-directed blue-team lab simulating a real SOC environment —
 > *"Every green square is a late night well spent."*
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sockr17&bg_color=0d1117&color=8B0000&line=8B0000&point=ffffff&area=true&area_color=8B0000&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kripy17&bg_color=0d1117&color=8B0000&line=8B0000&point=ffffff&area=true&area_color=8B0000&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/sockr17/sockr17/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/kripy17/kripy17/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
