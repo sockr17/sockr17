@@ -1,16 +1,24 @@
+<a name="top"></a>
+
 <!-- Header Banner -->
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0B3D91&height=220&section=header&text=Krish%20Patel&fontsize=56&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Blue%20Team%20%7C%20Threat%20Detection&descAlignY=58&descSize=18&descColor=aaaaaa)](https://github.com/kripy17)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0d2137,70:0B3D91,100:1a1a4a&height=230&section=header&text=Krish%20Patel&fontsize=58&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=SOC%20Analyst%20%7C%20Blue%20Team%20%7C%20Threat%20Detection&descAlignY=57&descSize=18&descColor=aaaaaa&stroke=8B0000&strokeWidth=1)](https://github.com/kripy17)
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=680&lines=Wazuh+the+one+who+triggered+that+alert%3F+Me.;sudo+get-hired+--+permission+granted;5+attacks+simulated.+5+incidents+documented.+0+ignored.;Alert+severity%3A+HIGH.+My+patience+with+FPs%3A+LOW;Sleep+schedule+flagged+as+suspicious+%E2%80%94+still+investigating)](https://github.com/kripy17)
+
+<!-- Skill icon strip — instant visual scan -->
+<img src="https://skillicons.dev/icons?i=py,bash,ts,react,linux,windows,git,github&theme=dark" alt="Skills" />
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kripy17&label=Profile%20Views&color=8B0000&style=for-the-badge)
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kripy17/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/kri.py17)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kripy17)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kri.py17/)
 
 </div>
 
@@ -101,6 +109,20 @@ I'm looking to contribute to a blue team that takes **detection engineering seri
 
 ---
 
+## 📈 Portfolio at a Glance
+
+<div align="center">
+
+| 🧪 Attacks Simulated | 🚨 Alerts Generated | 📄 Incidents Documented | 🗺️ MITRE Techniques Mapped | 🧰 Total Workspaces Built |
+|:---:|:---:|:---:|:---:|:---:|
+| **5** | **68** | **5** | **8** | **16** |
+
+</div>
+
+<sub>Sourced directly from [SOC Home Lab](https://github.com/kripy17/SOC-Home-Lab) and [BeyondLabs](https://github.com/kripy17/BeyondLabs) — not aspirational, just counted.</sub>
+
+---
+
 ## 🏗️ Featured Projects
 
 ### 🛡️ [SOC Home Lab — End-to-End Security Operations Center](https://github.com/kripy17/SOC-Home-Lab)
@@ -119,26 +141,68 @@ Stack: Wazuh · Ubuntu 22.04 · Kali Linux · Windows 10 · Sysmon · VMware · 
 | 🟢 Phase 2 — Windows + Sysmon | Windows agent · SwiftOnSecurity config · Process telemetry · Wazuh integration | ✅ Complete |
 | 🟢 Phase 3 — Attack Simulation | Brute force · PowerShell abuse · Persistence · Privilege escalation · 5 incident reports | ✅ Complete |
 
-**By the numbers:** `11 MITRE ATT&CK techniques mapped` · `5 attack scenarios simulated` · `5 structured incident reports written`
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kripy17&repo=SOC-Home-Lab&theme=github_dark&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117" alt="SOC Home Lab repo card" />
 
 ---
 
-### 🔬 [BeyondArch — Local Cyber Lab & SOC Workspace](https://github.com/kripy17/BeyondArch)
+### 🔬 [BeyondLabs — Local-First SOC Workbench](https://github.com/kripy17/BeyondLabs)
 
-> *"A workspace where every tool is honest, every result is evidence-backed, and nothing is faked."*
+> *"A workbench where every tool is honest, every result is evidence-backed, and nothing is faked."*
 
-A fully local SOC investigation workspace built for TryHackMe rooms, LetsDefend-style SOC workflows, phishing triage, log analysis, and detection engineering practice. Designed with a strict no-fake-output philosophy — if a dependency is missing, you'll be told, not deceived.
+A local-first workbench for defensive analysts — artifact intake, phishing triage, SIEM log review, and detection engineering, all in one app, all on your own machine. Built with a strict no-fake-output philosophy: if a dependency is missing, you're told, not deceived.
 
 ```
-Stack: React · Vite · Tailwind CSS · FastAPI · Python · Arch Linux
+Stack: React · Vite · TypeScript · FastAPI · Python · Linux / macOS / Windows
 ```
 
-| Module | Capability |
-|--------|-----------|
-| 🔍 SOC Investigation | Evidence collection, timeline, MITRE mapping, report generation |
-| 📧 Phishing Analysis | Header/body review, URL triage, sender reputation — fully local |
-| 🦠 Malware Triage | Static-only analysis, no execution, no uploads |
-| 🛠️ CyberChef Utils | IOC extraction, Base64, JWT, PowerShell deobfuscation |
+| Category | Workspaces |
+|----------|-----------|
+| 🔍 Triage & Analysis | Artifact Intake · Phishing Triage · Safe URL Analysis · Attachment Triage |
+| 🚨 SIEM, Detection & Alerts | SIEM Workspace · Logs & Alerts · Detection Engineering · MITRE ATT&CK · IDS Alerts |
+| 🛠️ Recon & Toolkit | Recon & OSINT · Nmap Runner · Hacking Toolkit · CyberChef |
+| 📄 Reference & Reporting | SOC Guide · Case & Report |
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kripy17&repo=BeyondLabs&theme=github_dark&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117" alt="BeyondLabs repo card" />
+
+---
+
+## 🧬 Detection Engineering Sample
+
+> *"Badges say I know Sigma. This is what that actually looks like."*
+
+<details>
+<summary>📄 Click to expand — sample rule: suspicious rundll32 execution (T1218.011)</summary>
+
+```yaml
+title: Suspicious Rundll32 Execution via Non-Standard Export
+status: experimental
+description: >
+  Detects rundll32.exe invoked with export/argument patterns commonly used
+  to proxy execution through a trusted Windows binary (LOLBin abuse).
+references:
+    - https://attack.mitre.org/techniques/T1218/011/
+tags:
+    - attack.defense_evasion
+    - attack.t1218.011
+logsource:
+    category: process_creation
+    product: windows
+detection:
+    selection:
+        Image|endswith: '\rundll32.exe'
+        CommandLine|contains:
+            - 'javascript:'
+            - '.dll,#'
+            - 'shell32.dll,Control_RunDLL'
+    condition: selection
+falsepositives:
+    - Legitimate Control Panel applet launches via rundll32 (rare in this exact form)
+level: medium
+```
+
+<sub>Illustrative — written to demonstrate rule structure and MITRE mapping style, not pulled from a specific production incident.</sub>
+
+</details>
 
 ---
 
@@ -171,12 +235,13 @@ Stack: React · Vite · Tailwind CSS · FastAPI · Python · Arch Linux
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST_IR_Framework-003087?style=flat-square&logoColor=white)
 ![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-333333?style=flat-square&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-00A99D?style=flat-square&logoColor=white)
 
 **💻 Languages & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 **⚙️ Operating Systems & Virtualisation**
@@ -225,10 +290,36 @@ Stack: React · Vite · Tailwind CSS · FastAPI · Python · Arch Linux
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=kripy17&show_icons=true&theme=github_dark&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="100%" />
+</td>
+<td width="50%">
+<img src="https://streak-stats.demolab.com?user=kripy17&background=0D1117&border=0D1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B0000&sideLabels=AAAAAA&dates=666666&hide_border=true" alt="GitHub Streak" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripy17&layout=compact&theme=github_dark&hide_border=true&title_color=8B0000&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="100%" />
+</td>
+<td width="50%">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kripy17&theme=darkhub&no-frame=true&row=2&column=2&margin-w=8&margin-h=8)
+
+</td>
+</tr>
+</table>
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kripy17&bg_color=0d1117&color=8B0000&line=8B0000&point=ffffff&area=true&area_color=8B0000&hide_border=true)](https://github.com/kripy17)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kripy17&show_icons=true&theme=github_dark&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kripy17&layout=compact&theme=github_dark&hide_border=true&title_color=8B0000&text_color=ffffff&bg_color=0d1117)
+<!--
+  Contribution snake — requires a one-time setup:
+  1. Add .github/workflows/snake.yml (provided separately) to this repo.
+  2. Let the workflow run once (Actions tab → run manually, or wait for the daily schedule).
+  3. It publishes to an "output" branch automatically — this embed will start working once that exists.
+-->
+![Snake animation](https://raw.githubusercontent.com/kripy17/kripy17/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -239,7 +330,7 @@ Stack: React · Vite · Tailwind CSS · FastAPI · Python · Arch Linux
 ```python
 currently = {
     "studying"   : "CompTIA Security+ (SY0-701)",
-    "building"   : "BeyondArch — Local SOC Workspace",
+    "building"   : "BeyondLabs — Local-First SOC Workbench",
     "practicing" : "TryHackMe SOC Level 1 Path",
     "reading"    : "MITRE ATT&CK technique documentation (yes, for fun)",
     "goal"       : "Land my first SOC Analyst role"
@@ -260,10 +351,19 @@ currently = {
 
 ---
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:8B0000,100:0d1117&height=120&section=footer)](https://github.com/kripy17)
+```bash
+┌──(kripy17㉿blue-team)-[~/]
+└─$ logout
 
-**Open to SOC Analyst opportunities — I promise my false positive rate is very low.**
+  session       : terminated
+  status        : 🟢 open to SOC Analyst opportunities
+  fp_rate       : very low (I promise)
 
-*All threats investigated. No logs left unread. Incidents documented. Coffee consumed.*
+  $ echo "all threats investigated · no logs left unread · coffee consumed."
+```
+
+<p align="right"><a href="#top">↑ back to top</a></p>
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a4a,30:0B3D91,70:8B0000,100:0d1117&height=190&section=footer&text=Thanks%20for%20stopping%20by&fontsize=30&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Let%27s%20catch%20the%20next%20incident%20together&descAlignY=62&descSize=15&descColor=aaaaaa&stroke=8B0000&strokeWidth=1)](https://github.com/kripy17)
 
 </div>
